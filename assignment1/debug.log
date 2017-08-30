@@ -1,0 +1,6 @@
+[0830/192700.995:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0830/192700.999:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/192701.000:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0830/192835.851:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0830/192835.854:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0830/192835.855:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\Gunbean\Reports\Dump\settings.dat: Access is denied. (0x5)
